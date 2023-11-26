@@ -1,0 +1,12 @@
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\bin\Debug\Chatter.exe
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\bin\Debug\Chatter.pdb
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\bin\Debug\ChatterData.dll
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\bin\Debug\ChatterData.pdb
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\Chatter.Chat.resources
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\Chatter.Properties.Resources.resources
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\Chatter.User.resources
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\ResGen.read.1.tlog
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\ResGen.write.1.tlog
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\Chatter.exe
+E:\Projects\MANSoftDev\Code Project\Using SqlDependency for data change events\Chatter_src\Chatter\Chatter\obj\Debug\Chatter.pdb
